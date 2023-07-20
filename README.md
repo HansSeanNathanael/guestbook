@@ -1,6 +1,7 @@
 Instalasi:
 
-1. Jalankan pada powershell ```bash
+1. Jalankan pada powershell 
+```bash
 cp .env.example .env
 ```
 
